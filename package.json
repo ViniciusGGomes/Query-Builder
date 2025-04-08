@@ -6,10 +6,9 @@
     "dev": "tsx watch src/server.ts",
     "knex": "node --import tsx ./node_modules/knex/bin/cli.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Vinícius Gomes",
   "license": "ISC",
-  "description": "",
+  "description": "Projeto de estudo sobre Query Builder",
   "devDependencies": {
     "@types/express": "^4.17.21",
     "@types/node": "^22.2.0",
